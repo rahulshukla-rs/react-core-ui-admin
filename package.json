@@ -1,26 +1,19 @@
 {
-  "name": "@coreui/coreui-free-react-admin-template",
-  "version": "3.0.0",
-  "description": "CoreUI React Open Source Bootstrap 4 Admin Template",
+  "name": "react-core-ui-admin",
+  "version": "1.0.0",
+  "description": "Core UI Admin Using React JS",
   "author": {
-    "name": "CoreUI",
-    "url": "https://coreui.io",
-    "github": "https://github.com/coreui",
-    "twitter": "https://twitter.com/core_ui"
+    "name": "React CoreUI Admin",
+    "url": "https://rahulshukla-rs.github.io/",
+    "github": "https://github.com/rahulshukla-rs",
   },
-  "contributors": [
-    {
-      "name": "CoreUI Team",
-      "url": "https://github.com/orgs/coreui/people"
-    }
-  ],
   "homepage": ".",
-  "copyright": "Copyright 2017-2020 creativeLabs Łukasz Holeczek",
+  "copyright": "",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
+    "url": "https://github.com/rahulshukla-rs/react-core-ui-admin.git"
   },
   "dependencies": {
     "@coreui/chartjs": "^2.0.0",
